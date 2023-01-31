@@ -3,3 +3,8 @@ Resolusi untuk bisnis undangan digital
 - membuat foto produk baru
 - membuat tema-tema kekinian
 - update tema lawas
+- menambah katalog tema daerah
+ * batak
+ * aceh
+ * jawa
+ * bali
