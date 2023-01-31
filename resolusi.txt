@@ -7,3 +7,8 @@ Resolusi untuk bisnis undangan digital
   * Khitan
   * Ulang Tahun
   * Event
+- menambah katalog tema daerah
+ * batak
+ * aceh
+ * jawa
+ * bali
