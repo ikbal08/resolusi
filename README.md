@@ -1,1 +1,3 @@
-# resolusi
+# Resolusi
+
+# Resolusi pribadi saja
