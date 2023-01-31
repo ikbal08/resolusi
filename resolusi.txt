@@ -3,6 +3,10 @@ Resolusi untuk bisnis undangan digital
 - membuat foto produk baru
 - membuat tema-tema kekinian
 - update tema lawas
+- menambah kategori katalog undangan 
+  * Khitan
+  * Ulang Tahun
+  * Event
 - menambah katalog tema daerah
  * batak
  * aceh
